@@ -7,17 +7,17 @@
 
 <div align="center">
     <p>
-	    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/javascript-code-challenges?style=for-the-badge"></a>
-	    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/javascript-code-challenges?logoColor=green&style=for-the-badge"></a>
-	    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/javascript-code-challenges?logoColor=green&style=for-the-badge"></a>
+	    <a name="stars"><img src="https://img.shields.io/github/stars/azzok/javascript-code-challenges?style=for-the-badge"></a>
+	    <a name="forks"><img src="https://img.shields.io/github/forks/azzok/javascript-code-challenges?logoColor=green&style=for-the-badge"></a>
+	    <a name="contributions"><img src="https://img.shields.io/github/contributors/azzok/javascript-code-challenges?logoColor=green&style=for-the-badge"></a>
 	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
-	    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/javascript-code-challenges?style=for-the-badge"></a>
+	    <a name="license"><img src="https://img.shields.io/github/license/azzok/javascript-code-challenges?style=for-the-badge"></a>
     </p>
 </div>
 
 <div align="center">
 	<p>Show your support by giving a ⭐ to this repo</p>
-	<h5>Feel free to connect with me on <a href="https://linkedin.com/in/sadanandpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sadanandpai" height="20" width="20" /></a></h5>
+	<h5>Feel free to connect with me on <a href="https://linkedin.com/in/azzok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="azzok" height="20" width="20" /></a></h5>
 </div>
 
 ---
@@ -37,20 +37,12 @@
 ### Usage Guide and Study materials
 
 - [Usage Guide](./usageGuide.md)
-- [Study Materials](https://github.com/sadanandpai/frontend-learning-kit)
+- [Study Materials](https://github.com/azzok/frontend-learning-kit)
 
 ### Contributing Guide
 
 If you want to contribute, improve or suggest changes to this repo, then check out the [Contributing Guide](./contributing.md)
 <br/><br/>
-
-### Stargazers
-
-[![Stargazers repo roster for @sadanandpai/javascript-code-challenges](https://reporoster.com/stars/sadanandpai/javascript-code-challenges)](https://github.com/sadanandpai/javascript-code-challenges/stargazers)
-
-### Forkers
-
-[![Forkers repo roster for @sadanandpai/javascript-code-challenges](https://reporoster.com/forks/sadanandpai/javascript-code-challenges)](https://github.com/sadanandpai/javascript-code-challenges/network/members)
 
 ### License
 
