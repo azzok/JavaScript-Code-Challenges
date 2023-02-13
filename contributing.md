@@ -1,6 +1,6 @@
 ### Contribution Guide
 - Feel free to contribute to this repo by raising the __pull request__
-- If you do not know to raise a pull request, send an email with details to sadypai@gmail.com
+- If you do not know to raise a pull request, send an email with details to azzok17@gmail.com
 - Spelling mistakes, improvement of answers, code comments, rephrasing the questions / points, additional details, quality references and similar contributions are highly appreciated
 
 #### Question contribution
